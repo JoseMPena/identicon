@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Generates "Identicon" image from string
 
 ## Installation
 
